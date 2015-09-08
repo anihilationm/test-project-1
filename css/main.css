@@ -616,7 +616,10 @@ footer ul:nth-child(2) {
         margin-right: 30px;
     }
 
-
+#ps {
+    font-weight: bold;
+    margin: 0 auto;
+}
 
 
 
